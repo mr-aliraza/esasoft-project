@@ -1,0 +1,9 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 5vw;
+  width: 2vw;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    opacity: 1;
+}
